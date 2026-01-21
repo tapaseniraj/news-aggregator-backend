@@ -14,4 +14,5 @@ public class Contact {
     private String ln;
     private String email;
     private String mob;
+    private String address;
 }
